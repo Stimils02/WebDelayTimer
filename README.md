@@ -13,6 +13,7 @@ Data Storage:
 - No analytics or tracking is implemented
 
 Contact:
-[Your contact information]
+Link to google form [https://forms.gle/QhU6iEZb5cY9qQfB7]
 
-Last Updated: [Date]
+
+Last Updated: 01-31-2025
